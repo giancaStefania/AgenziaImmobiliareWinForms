@@ -1,0 +1,42 @@
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe.config
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.pdb
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Form1.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.exe
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.pdb
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.NuovoImmobile.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormProprietario.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormTipoImmobile.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Charts.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe.config
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.pdb
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.AssemblyReference.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Charts.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Form1.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormProprietario.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormTipoImmobile.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.NuovoImmobile.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Properties.Resources.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.GenerateResource.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.CoreCompileInputs.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.exe
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.pdb
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe.config
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.exe
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\bin\Debug\ImmobiliWinForms.pdb
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.AssemblyReference.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Charts.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Form1.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormProprietario.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.FormTipoImmobile.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.NuovoImmobile.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.Properties.Resources.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.GenerateResource.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.exe
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWinForms\obj\Debug\ImmobiliWinForms.pdb
